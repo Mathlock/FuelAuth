@@ -1,5 +1,5 @@
 {
-	"name": "fuel/auth",
+	"name": "mathlock/fuelauth",
 	"description" : "FuelPHP 1.x Auth Package",
 	"type": "fuel-package",
 	"homepage": "https://github.com/fuel/auth",
